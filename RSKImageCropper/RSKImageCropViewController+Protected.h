@@ -64,6 +64,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)setZoomScale:(CGFloat)zoomScale;
 
+- (void)layoutImageScrollView;
+
 @end
 
 NS_ASSUME_NONNULL_END
